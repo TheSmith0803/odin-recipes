@@ -9,3 +9,6 @@ Written before website completion:
     I just want to update this with a commit and say I am really enjoying
     this, I know I haven't even scratched the surface yet, but I like the 
     feeling of 'making something' :D
+
+    So I think I am about finished. Made 3 pages with stuff on them.
+    About to see if there's anything left to do.
