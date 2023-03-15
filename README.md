@@ -16,3 +16,10 @@ During making:
     About to see if there's anything left to do.
 
 After:
+
+    Turns out I am finished! Seemed sorta repetitive and 
+    simple. Eager to get on with some more complicated design and stuff.
+    Maybe html feeling simple is a good thing? 
+
+    I suppose html IS simple anyway. That's what everyone says.
+    Dont know wether to be excited or scared for CSS lol.
